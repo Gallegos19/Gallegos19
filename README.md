@@ -3,7 +3,7 @@
 <img align="right" alt="triangle" width="400" src=       "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjNnZDV2cW5zYmRtYzkyZTQ5YnZhaXZ4dTZ6MXZoMWd0Z2Z5Mnh5cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="">
 
 
-- 👨‍💻 Uno de mis Proyectos [https://portfolio-roan-iota-44.vercel.app/](https://video-juego.vercel.app/?authuser=1)
+- 👨‍💻 Uno de mis Proyectos [https://video-juego.vercel.app/](https://video-juego.vercel.app/?authuser=1)
 
 - 📫 Mail **adriborraz04@gmail.com**
 
@@ -18,9 +18,6 @@
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://images-cdn.openxcell.com/wp-content/uploads/2024/07/24154156/dango-inner-2.webp" alt="nextjs" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" alt="vue" width="40" height="40"/>
-</a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
 </a>
 
  </p>
