@@ -1,7 +1,6 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2200&pause=500&color=00C2CB&center=true&vCenter=true&width=600&lines=Hola+👋;Bienvenido+a+mi+perfil;Desarrollador+Frontend+y+Mobile+🚀" alt="Typing SVG" />
-</p>
-
+<h2 align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&background=4EA3FF15&width=435&lines=%C2%A1Hola!++Soy+Julio+Gallegos;Desarrollador+Frontend+%26%26+Mobile+%F0%9F%9A%80" alt="Typing SVG" /></a>
+</h2>
 <h2 align="center">¡Bienvenido a mi perfil!</h2>
 
 <h4 align="center">Apasionado por construir interfaces limpias, rápidas y funcionales, tanto para la web como para dispositivos móviles.</h4>
