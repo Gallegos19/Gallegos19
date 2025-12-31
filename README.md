@@ -84,12 +84,16 @@ _Más proyectos próximamente..._
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gallegos19&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gallegos19&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
+  <a href="https://github.com/Gallegos19">
+    <img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api?username=Gallegos19&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="readme stats" />
+    <img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Gallegos19&layout=compact&show_icons=true&theme=tokyonight&border_radius=10" alt="top langs" />
+  </a>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gallegos19&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <a href="https://github.com/Gallegos19">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Gallegos19&theme=tokyonight&border_radius=10&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="streak stats"/>
+  </a>
 </div>
 
 ---
