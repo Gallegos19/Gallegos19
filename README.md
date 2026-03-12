@@ -84,6 +84,10 @@ _Más proyectos próximamente..._
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gallegos19&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&border_radius=10&hide_border=false" height="150" alt="stats graph" />
+
+  <br />
+
   <a href="https://github.com/Gallegos19">
     <img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api?username=Gallegos19&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="readme stats" />
     <img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Gallegos19&layout=compact&show_icons=true&theme=tokyonight&border_radius=10" alt="top langs" />
